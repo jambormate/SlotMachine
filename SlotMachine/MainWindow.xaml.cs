@@ -54,7 +54,7 @@ namespace SlotMachine
 				"Kepek/seven.png"
 			};
 
-			SYMBOL_COUNT = 6;
+			SYMBOL_COUNT = kepek.Count;
 
 			kepekCache = new List<BitmapImage>();
 
